@@ -4,7 +4,7 @@
 # No use esto en producción. Solo para propósitos de ejemplo.
 # Autor: Upkar Lidder (IBM)
 # Autores adicionales:
-# <tu nombre de usuario de GitHub>
+# <ggranadospe>
 # Entrada:
 # p, cantidad principal
 # t, período de tiempo en años
